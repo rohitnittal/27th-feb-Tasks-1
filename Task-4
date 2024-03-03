@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Platfrm</title>
+    <style>
+        h2{
+            text-align: center;
+        }
+        li{
+            list-style-type: none;
+        }
+        details{
+            margin-left: 49px;
+        }
+       
+        b{
+            border-style: ridge;
+            background-color: antiquewhite;
+
+        }
+        button{
+            pointer-events:none;
+        }
+        
+
+    </style>
+</head><header><h2>Test Platform</h2></header>
+<body>
+    <div>
+        <ul><b>6. What is the correct CSS syntax to select all paragraphs on a page?</b>
+        <li><input type="radio" name="radio6" id="radio">a) p { }</li>
+        <li><input type="radio" name="radio6" id="radio">b) paragraph { }</li>
+        <li><input type="radio" name="radio6" id="radio">c) .paragraph { }</li>
+        <li><input type="radio" name="radio6" id="radio">d) < p> { }</li></ul>
+        <details><summary>Answer</summary><p>a) p { }</p></details>
+    </div>
+
+    <div>
+        <ul><b>7. Which HTML tag is used to define an unordered list?</b>
+        <li><input type="radio" name="radio7" id="radio">a) < ul></li>
+        <li><input type="radio" name="radio7" id="radio">b) < ol></li>
+        <li><input type="radio" name="radio7" id="radio">c) < list></li>
+        <li><input type="radio" name="radio7" id="radio">d) < li></li></ul>
+        <details><summary>Answer</summary><p>a) < ul></p></details>
+    </div>
+
+    <div>
+        <ul><b>8. Which property is used to change the font size of an element?</b>
+        <li><input type="radio" name="radio8" id="radio">a) font-size</li>
+        <li><input type="radio" name="radio8" id="radio">b) text-size</li>
+        <li><input type="radio" name="radio8" id="radio">c) size</li>
+        <li><input type="radio" name="radio8" id="radio">d) font-style</li></ul>
+        <details><summary>Answer</summary><p>a) font-size</p></details>
+    </div>
+
+    <div>
+        <ul><b>9. Which CSS property is used to make text italic?</b>
+        <li><input type="radio" name="radio9" id="radio">a) text-style: italic;</li>
+        <li><input type="radio" name="radio9" id="radio">b) font-style: italic;</li>
+        <li><input type="radio" name="radio9" id="radio">c) italic: true;</li>
+        <li><input type="radio" name="radio9" id="radio">d) style: italic;</li></ul>
+        <details><summary>Answer</summary><p>b) font-style: italic;</p></details>
+    </div>
+
+    <div>
+        <ul><b>10. What is the correct HTML for creating a hyperlink?</b>
+        <li><input type="radio" name="radio10" id="radio">a) < a href="link">Click here</a></li>
+        <li><input type="radio" name="radio10" id="radio">b) < link href="link">Click here</link></li>
+        <li><input type="radio" name="radio10" id="radio">c) < hyperlink>Click here</hyperlink></li>
+        <li><input type="radio" name="radio10" id="radio">d) < href="link">Click here</a></li></ul>
+        <details><summary>Answer</summary><p>a) < a href="link">Click here</a></p></details>
+    </div>
+
+    <footer>
+        <center>
+        <a href="./mcq1.html" ><button>1</button></a>
+        <a href="./mcq-2page.html" ><button>2</button></a>
+    </center>
+
+    </footer>
+
+</body>
+</html>
