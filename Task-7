@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Home</title>
+    <style>
+        header{
+            background-color: antiquewhite;
+            text-align: center;
+            border-style:groove ;
+        }
+        pre{
+            background-color: aqua;
+            padding-top: 15px;
+            padding-left: 5px;
+            border-style: solid;
+            width: 220px;
+        }
+        #menu{
+            
+            
+        }
+        h2{
+        
+        }
+        
+    </style>
+</head><header><h1>Welcome Home Restaurant</h1></header>
+<body><br>
+    <marquee behavior="" direction="left" style="background-color:black; color: aliceblue; caret-color: aquamarine;"><b>Hey Guys, We're so excited to welcome you in our Restaurant</b></marquee>
+
+    <h2><u>VEG ITEMS</u></h2>
+
+  
+
+<pre> <details>
+<summary><b id="menu">Special Menu</b></summary>
+<li><a href="./veg items-1.html">Veg Biryani</a></li>
+<li><a href="./veg items-1.html">Veg Sandwich</a></li>
+<li><a href="./veg items-1.html">Veg Crispy Momo</a></li>
+<li><a href="./veg items-1.html">Veg Burger</a></li>
+  
+</details>
+ 
+    </pre>
+    <h2><u>NON-VEG ITEMS</u></h2>
+  
+<pre><details>
+<summary><b id="menu">Special Menu</b></summary>
+<li><a href="./non-veg-items.html">Chicken Biryani</a></li>
+<li><a href="./non-veg-items.html">Mutton Biryani</a></li>
+<li><a href="./non-veg-items.html">Chicken Rolls</a></li>
+<li><a href="./non-veg-items.html">Chicken Boneless Biryani</a></li></details>
+    </pre>
+</body>
+</html>
