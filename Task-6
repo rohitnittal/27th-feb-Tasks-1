@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Non-Veg Items</title>
+    <style>
+        img{
+            border-radius: 5%; 
+            float: left;"
+            width:550px; 
+            height:185px;
+            border-style:groove;
+            border-style:solid;
+        }
+
+        a{
+            text-decoration: none;
+           
+            
+            
+        }
+        button{
+            background-color: burlywood;
+            pointer-events: none;
+        }
+        #Home{
+            border-style:double;
+        }
+        
+        h1{
+            background-color: aqua;
+            text-align: center;
+        }
+       body{
+        background-image: url("https://t3.ftcdn.net/jpg/02/79/80/42/360_F_279804261_XIlkcaHuoVtMQfj6ZO8kclhhQHasyAqM.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+       }
+        
+    </style>
+</head>
+<body>
+    <h1 id="menu">SPECIAL MENU</h1>
+    <a href="./restaurant.html"><b id="Home">Home</b></a>
+    <center><a href="#Chicken Biryani"><button>Chicken Biryani</button></a>
+    <a href="#Mutton Biryani"><button>Mutton Biryani</button></a>
+    <a href="#Chicken Rolls"><button>Chicken Rolls</button></a>
+    <a href="#Chicken Boneless Biryani"><button>Chicken Boneless Biryani</button></a>
+</center>
+    <h2 id="Chicken Biryani"><u>Chicken Biryani</u></h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyJ2vhJ3Uo5QtZ4NgNzlpZFMUEfpyqRhWWw&usqp=CAU" alt="">
+    <pre>
+  <u><b>Ingredients:</b></u>
+
+  <u><b>For marinating the chicken:</b></u>
+  - 1 kg chicken, cut into pieces
+  - 1 cup yogurt
+  - 2 tablespoons ginger-garlic paste
+  - 1 teaspoon red chili powder
+  - 1 teaspoon turmeric powder
+  - 1 teaspoon garam masala
+  - Salt to taste
+  - Juice of 1 lemon
+
+  
+  
+<u><b>For the rice:</b></u>
+- 2 cups basmati rice, soaked in water for 30 minutes and drained
+- 4 cups water
+- 2 bay leaves
+- 4 green cardamom pods
+- 4 cloves
+- 1 cinnamon stick
+- Salt to taste
+
+<u><b>For cooking the biryani:</b></u>
+- 4 tablespoons ghee or oil
+- 2 large onions, thinly sliced
+- 2 tomatoes, chopped
+- 2 green chilies, slit
+- 1/2 cup chopped mint leaves
+- 1/2 cup chopped coriander leaves
+- Saffron strands soaked in 1/4 cup warm milk
+- Fried onions (optional)
+- Cashews and raisins for garnish (optional)
+
+<u><b>Instructions:</b></u>
+
+1. In a large mixing bowl, combine the chicken pieces with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, salt, and lemon juice.
+ Mix well to coat the chicken evenly with the marinade. Cover and let it marinate in the refrigerator for at least 2 hours, preferably overnight.
+
+2. In a large pot, bring water to a boil. Add soaked and drained basmati rice along with bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Cook the 
+rice until it's 70-80% done. Drain the excess water and set the rice aside.
+
+3. In a separate large pot or deep skillet, heat ghee or oil over medium heat. Add thinly sliced onions and fry until they turn golden brown and crispy. Remove
+ half of the fried onions and set aside for layering.
+
+4. To the remaining onions in the pot, add chopped tomatoes and slit green chilies. Cook until the tomatoes are soft and oil starts to separate.
+
+5. Add marinated chicken pieces to the pot along with chopped mint leaves and coriander leaves. Mix well and cook for about 10-15 minutes until the chicken is 
+partially cooked and the gravy thickens.
+
+6. In a separate small bowl, soak saffron strands in warm milk and set aside.
+
+7. Once the chicken is partially cooked, layer the partially cooked rice evenly over the chicken in the pot.
+
+8. Sprinkle the reserved fried onions, soaked saffron milk, cashews, and raisins (if using) on top of the rice layer.
+
+9. Cover the pot tightly with a lid or aluminum foil to seal in the flavors. Cook on low heat for 20-25 minutes, allowing the biryani to steam and the flavors to
+ meld together.
+
+10. Once done, remove the pot from the heat and let it rest for 5-10 minutes before opening the lid.
+
+11. Gently mix the biryani from the sides, fluffing up the rice and mixing it with the chicken and spices.
+
+12. Serve the chicken biryani hot with raita (yogurt sauce), salad, or your favorite chutney.
+
+Enjoy your delicious homemade chicken biryani!
+        
+    </pre>
+    <a href="#menu"><button>Go Top</button></a>
+
+
+    <h2 id="Mutton Biryani"><u>Mutton Biryani</u></h2>
+    <img src="https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2017/09/Hyderabadi-Kacchi-Biryani-01.jpg" alt="">
+    <pre>
+  <u><b>Ingredients:</b></u>
+
+  <u><b>For marinating the mutton:</b></u>
+  - 1 kg mutton, cut into pieces
+  - 1 cup yogurt
+  - 2 tablespoons ginger-garlic paste
+  - 1 teaspoon red chili powder
+  - 1/2 teaspoon turmeric powder
+  - 1 teaspoon garam masala
+  - Salt to taste
+  - Juice of 1 lemon
+
+
+
+<u><b>For the rice:</b></u>
+- 3 cups basmati rice, soaked in water for 30 minutes and drained
+- 6 cups water
+- 2 bay leaves
+- 4 green cardamom pods
+- 4 cloves
+- 1 cinnamon stick
+- Salt to taste
+
+<u><b>For cooking the biryani:</b></u>
+- 1/2 cup ghee or oil
+- 2 large onions, thinly sliced
+- 2 tomatoes, chopped
+- 2 green chilies, slit
+- 1/2 cup chopped mint leaves
+- 1/2 cup chopped coriander leaves
+- Saffron strands soaked in 1/4 cup warm milk
+- Fried onions (optional)
+- Cashews and raisins for garnish (optional)
+
+<u><b>Instructions:</b></u>
+
+1. In a large mixing bowl, combine the mutton pieces with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, salt, and lemon juice. 
+Mix well to coat the mutton evenly with the marinade. Cover and let it marinate in the refrigerator for at least 2 hours, preferably overnight.
+
+2. In a large pot, bring water to a boil. Add soaked and drained basmati rice along with bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Cook the 
+rice until it's 70-80% done. Drain the excess water and set the rice aside.
+
+3. In a separate large pot or deep skillet, heat ghee or oil over medium heat. Add thinly sliced onions and fry until they turn golden brown and crispy. Remove 
+half of the fried onions and set aside for layering.
+
+4. To the remaining onions in the pot, add chopped tomatoes and slit green chilies. Cook until the tomatoes are soft and oil starts to separate.
+
+5. Add marinated mutton pieces to the pot along with chopped mint leaves and coriander leaves. Mix well and cook for about 15-20 minutes until the mutton is 
+partially cooked and the gravy thickens.
+
+6. In a separate small bowl, soak saffron strands in warm milk and set aside.
+
+7. Once the mutton is partially cooked, layer the partially cooked rice evenly over the mutton in the pot.
+
+8. Sprinkle the reserved fried onions, soaked saffron milk, cashews, and raisins (if using) on top of the rice layer.
+
+9. Cover the pot tightly with a lid or aluminum foil to seal in the flavors. Cook on low heat for 30-35 minutes, allowing the biryani to steam and the flavors 
+to meld together.
+
+10. Once done, remove the pot from the heat and let it rest for 5-10 minutes before opening the lid.
+
+11. Gently mix the biryani from the sides, fluffing up the rice and mixing it with the mutton and spices.
+
+12. Serve the mutton biryani hot with raita (yogurt sauce), salad, or your favorite chutney.
+
+Enjoy your delicious homemade mutton biryani!
+</pre>
+    <a href="#menu"><button>Go Top</button></a>
+
+
+
+
+
+    <h2 id="Chicken Rolls"><u>Chicken Rolls</u></h2>
+    <img src="https://madscookhouse.com/wp-content/uploads/2021/02/Chicken-Kathi-Roll.jpg" alt="">
+    <pre>
+  <u><b>Ingredients:</b></u>
+
+  <u><b>For the chicken filling:</b></u>
+  - 500 grams boneless chicken breast, cut into small pieces
+  - 1 onion, finely chopped
+  - 2 cloves garlic, minced
+  - 1 teaspoon ginger paste
+  - 1 teaspoon red chili powder
+  - 1 teaspoon coriander powder
+  - 1/2 teaspoon turmeric powder
+  - 1/2 teaspoon cumin powder
+  - Salt to taste
+  - 2 tablespoons oil
+
+  - Fresh coriander leaves, chopped (optional)
+- Juice of 1/2 lemon
+
+<u><b>For the rolls:</b></u>
+- Ready-made tortillas or chapatis
+- Lettuce leaves
+- Sliced cucumber
+- Sliced tomatoes
+- Sliced onions
+- Mayonnaise or your favorite sauce
+- Optional: grated cheese, sliced avocado, pickles, or any other desired fillings
+
+<u><b>Instructions:</b></u>
+
+1. Heat oil in a pan over medium heat. Add chopped onions and sauté until they turn translucent.
+
+2. Add minced garlic and ginger paste to the pan. Sauté for another minute until fragrant.
+
+3. Add the chicken pieces to the pan and cook until they are no longer pink and start to brown.
+
+4. Stir in the red chili powder, coriander powder, turmeric powder, cumin powder, and salt. Mix well to coat the chicken pieces with the spices. Cook for a few
+ more minutes until the chicken is cooked through and tender.
+
+5. Once the chicken is cooked, squeeze the lemon juice over it and add chopped fresh coriander leaves if desired. Mix well and remove from heat. Let the chicken 
+filling cool slightly.
+
+6. Warm the tortillas or chapatis on a skillet or in the microwave for a few seconds to make them pliable.
+
+7. To assemble the rolls, place a lettuce leaf on each tortilla or chapati. Spoon some of the chicken filling onto the lettuce leaf.
+
+8. Add sliced cucumber, tomatoes, onions, and any other desired fillings on top of the chicken filling.
+
+9. Drizzle mayonnaise or your favorite sauce over the fillings.
+
+10. Roll up the tortilla or chapati tightly, tucking in the sides as you go to form a neat roll.
+
+11. Secure the rolls with toothpicks if needed.
+
+12. Serve the chicken rolls immediately, either whole or sliced into smaller pieces for appetizers or snacks.
+
+Enjoy your delicious Chicken Rolls!        
+
+ </pre>
+ <a href="#menu"><button>Go Top</button></a>
+
+
+
+
+
+    <h2 id="Chicken Boneless Biryani"><u>Chicken Boneless Biryani</u></h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mn9hR6_jtu0YhW9vyaFZy-7PHQUJdur39Q&usqp=CAU" alt="">
+    <pre>
+  <u><b>Ingredients:</b></u>
+
+  <u><b>For marinating the chicken:</b></u>
+  - 500 grams boneless chicken, cut into bite-sized pieces
+  - 1 cup yogurt
+  - 2 tablespoons ginger-garlic paste
+  - 1 teaspoon red chili powder
+  - 1/2 teaspoon turmeric powder
+  - 1 teaspoon garam masala
+  - Salt to taste
+  - Juice of 1 lemon
+
+
+
+<u><b>For the rice:</b></u>
+- 2 cups basmati rice, soaked in water for 30 minutes and drained
+- 4 cups water
+- 2 bay leaves
+- 4 green cardamom pods
+- 4 cloves
+- 1 cinnamon stick
+- Salt to taste
+
+<u><b>For cooking the biryani:</b></u>
+- 4 tablespoons ghee or oil
+- 2 large onions, thinly sliced
+- 2 tomatoes, chopped
+- 2 green chilies, slit
+- 1/2 cup chopped mint leaves
+- 1/2 cup chopped coriander leaves
+- Saffron strands soaked in 1/4 cup warm milk
+- Fried onions (optional)
+- Cashews and raisins for garnish (optional)
+
+<u><b>Instructions:</b></u>
+
+1. In a large mixing bowl, combine the boneless chicken pieces with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, salt, and lemon
+ juice. Mix well to coat the chicken evenly with the marinade. Cover and let it marinate in the refrigerator for at least 2 hours, preferably overnight.
+
+2. In a large pot, bring water to a boil. Add soaked and drained basmati rice along with bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Cook the rice 
+until it's 70-80% done. Drain the excess water and set the rice aside.
+
+3. In a separate large pot or deep skillet, heat ghee or oil over medium heat. Add thinly sliced onions and fry until they turn golden brown and crispy. Remove 
+half of the fried onions and set aside for layering.
+
+4. To the remaining onions in the pot, add chopped tomatoes and slit green chilies. Cook until the tomatoes are soft and oil starts to separate.
+
+5. Add marinated boneless chicken pieces to the pot along with chopped mint leaves and coriander leaves. Mix well and cook for about 10-15 minutes until the chicken 
+is partially cooked and the gravy thickens.
+
+6. In a separate small bowl, soak saffron strands in warm milk and set aside.
+
+7. Once the chicken is partially cooked, layer the partially cooked rice evenly over the chicken in the pot.
+
+8. Sprinkle the reserved fried onions, soaked saffron milk, cashews, and raisins (if using) on top of the rice layer.
+
+9. Cover the pot tightly with a lid or aluminum foil to seal in the flavors. Cook on low heat for 20-25 minutes, allowing the biryani to steam and the flavors to 
+meld together.
+
+10. Once done, remove the pot from the heat and let it rest for 5-10 minutes before opening the lid.
+
+11. Gently mix the biryani from the sides, fluffing up the rice and mixing it with the chicken and spices.
+
+12. Serve the Chicken Boneless Biryani hot with raita (yogurt sauce), salad, or your favorite chutney.
+
+Enjoy your delicious homemade Chicken Boneless Biryani!
+
+        
+    </pre>
+    <a href="#menu"><button>Go Top</button></a>
+
+
+
+</body>
+</html>
