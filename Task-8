@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veg-Items</title>
+    <style>
+        
+        img{
+           border-radius: 5%; 
+            float: left;"
+            width:550px; 
+            height:185px;
+            border-style:groove;
+            border-style:solid;
+        }
+
+        a{
+            text-decoration: none;
+            
+        }
+        button{
+            background-color: burlywood;
+            pointer-events: none;
+            
+        }
+
+        h1{
+            background-color: aqua;
+            text-align: center;
+        }
+        #Home{
+            border-style:double;
+        }
+
+        body{
+        background-image: url("https://t3.ftcdn.net/jpg/02/79/80/42/360_F_279804261_XIlkcaHuoVtMQfj6ZO8kclhhQHasyAqM.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+       }
+    
+    </style>
+</head>
+<body>
+    <h1 id="menu">SPECIAL MENU</h1>
+    <a href="./restaurant.html"><b id="Home">Home</b></a>
+    <center><a href="#biryani"><button>Veg Biryani</button></a>
+    <a href="#Sandwich"><button>Veg Sandwich</button></a>
+    <a href="#Veg Crispy Momo"><button>Veg Crispy Momo</button></a>
+    <a href="#Veg Burger"><button>Veg Burger</button></a>
+</center>
+    <h2 id="biryani"><u>Veg Biryani</u></h2>
+    <img src="https://myfoodstory.com/wp-content/uploads/2020/09/Veg-Biryani-4.jpg"  alt="">
+<pre>
+
+  <u><b>Ingredients:</b></u>
+        
+  <u><b>For the rice:</b></u>
+  - 2 cups basmati rice, soaked in water for 30 minutes and drained
+  - 4 cups water
+  - 2 bay leaves
+  - 4 green cardamom pods
+  - 4 cloves
+  - 1 cinnamon stick
+  - Salt to taste
+        
+  
+    <u><b>For the vegetables:</b></u>
+        - 2 tablespoons ghee or oil
+        - 1 large onion, thinly sliced
+        - 2 green chilies, slit
+        - 1 tablespoon ginger-garlic paste
+        - 2 medium-sized potatoes, peeled and cubed
+        - 1 cup mixed vegetables (carrots, peas, beans, cauliflower, etc.)
+        - 1 cup paneer (Indian cottage cheese), cubed
+        - 1/2 cup yogurt
+        - 1 teaspoon red chili powder
+        - 1/2 teaspoon turmeric powder
+        - 1 teaspoon garam masala
+        - Salt to taste
+        
+    <u><b>For layering:</b></u>
+        - 1/4 cup chopped mint leaves
+        - 1/4 cup chopped coriander leaves
+        - Fried onions (optional)
+        - Saffron strands soaked in 2 tablespoons warm milk (optional)
+        
+    <u><b>Instructions:</b></u>
+        
+        1. Heat ghee or oil in a large pot. Add sliced onions and sauté until golden brown. Remove half of the fried onions and set aside for layering.
+        
+        2. To the remaining onions in the pot, add green chilies and ginger-garlic paste. Sauté for a couple of minutes until fragrant.
+        
+        3. Add potatoes and mixed vegetables. Cook for 5-7 minutes until slightly tender.
+        
+        4. Add paneer cubes, red chili powder, turmeric powder, garam masala, and salt. Mix well and cook for another 2-3 minutes.
+        
+        5. In a separate pot, bring water to a boil. Add soaked and drained basmati rice along with bay leaves, cardamom pods, cloves, cinnamon stick, 
+        and salt. Cook the rice until it's 70-80% done. Drain the excess water and set the rice aside.
+        
+        6. Preheat the oven to 350°F (180°C).
+        
+        7. In the pot with the vegetables, spread half of the cooked rice evenly. Sprinkle half of the chopped mint and coriander leaves on top.
+        
+        8. Spread the yogurt evenly over the rice layer.
+        
+        9. Add the remaining rice over the yogurt layer and spread it evenly.
+        
+       10. Sprinkle the remaining chopped mint and coriander leaves over the rice.
+        
+       11. Spread the reserved fried onions on top. If using saffron, drizzle the saffron-infused milk over the rice.
+        
+       12. Cover the pot tightly with aluminum foil or a lid and place it in the preheated oven. Bake for 20-25 minutes.
+        
+       13. Once done, remove the pot from the oven and let it rest for 5-10 minutes before serving.
+
+       Serve the delicious vegetable biryani hot with raita (yogurt sauce) or your favorite chutney. Enjoy your meal!
+    </pre>
+ <a href="#menu"><button>Go Top</button></a>
+
+    
+    <h2 id="Sandwich"><u>Veg Sandwich</u></h2>
+    <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/veg-grilled-sandwich-recipe.jpg" >
+    <pre>
+
+    <u><b>Ingredients:</b></u>
+        
+      - 8 slices of bread (whole wheat or white)
+      - 1 large tomato, thinly sliced
+      - 1 cucumber, thinly sliced
+      - 1 small red onion, thinly sliced
+      - 1 bell pepper (capsicum), thinly sliced
+      - 1 medium-sized carrot, grated or thinly sliced
+      - 4 lettuce leaves
+      - 1/2 cup mayonnaise or sandwich spread
+      - Salt and pepper to taste
+      - Optional: sliced cheese, avocado slices, sprouts, pickles, or any other vegetables of your choice
+                                - Butter or margarine for spreading on bread slices
+        
+     <u><b>Instructions:</b></u>
+        
+        1. Lay out the bread slices on a clean surface.
+        
+        2. Spread a thin layer of mayonnaise or sandwich spread on each slice of bread.
+        
+        3. Divide the sliced vegetables evenly among 4 slices of bread. Layer the tomato, cucumber, onion, bell pepper, carrot, lettuce leaves, and any 
+        other desired ingredients on the bread.
+        
+        4. Sprinkle salt and pepper over the vegetable layers according to your taste preferences.
+        
+        5. If using cheese, place a slice or two on top of the vegetables.
+        
+        6. Place the remaining slices of bread on top of the vegetable-filled slices to form sandwiches.
+        
+        7. Lightly spread butter or margarine on the outer sides of the sandwiches.
+        
+        8. Preheat a sandwich press or a non-stick skillet over medium heat.
+        
+        9. Place the sandwiches in the sandwich press or skillet and cook until the bread turns golden brown and crispy, and the cheese (if using) melts. 
+        If using a skillet, flip the sandwiches halfway through to ensure both sides are evenly toasted.
+        
+        10. Once the sandwiches are cooked to your liking, remove them from the heat and let them cool for a minute or two.
+        
+        11. Slice the sandwiches diagonally or into halves, if desired.
+        
+        12. Serve the veg sandwiches hot with ketchup, mustard, or any dipping sauce of your choice.
+        
+        Enjoy your delicious and nutritious veg sandwiches!
+
+    </pre>
+    <a href="#menu"><button>Go Top</button></a>
+
+    <h2 id="Veg Crispy Momo"><u>Veg Crispy Momo</u></h2>
+    <img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332559301/UE/IG/GR/194507844/frozen-kurkurey-momos.jpg" alt="">
+    <pre>
+        
+  <u><b>Ingredients:</b></u>
+
+  <u><b>For the dough:</b></u>
+   - 2 cups all-purpose flour
+   - Water, as needed
+   - Salt, to taste
+
+  <u><b>For the filling:</b></u> 
+  - 2 cups mixed vegetables (cabbage, carrots, bell peppers, onions, etc.), finely chopped
+  - 2 cloves garlic, minced
+  - 1-inch piece of ginger, minced
+- 2 green chilies, finely chopped (optional)
+- 2 tablespoons soy sauce
+- 1 tablespoon chili sauce
+- 1 tablespoon vinegar
+- 1 teaspoon sesame oil (optional)
+- Salt and pepper, to taste
+- 2 tablespoons oil for sautéing
+
+<u><b>For frying:</b></u>
+- Oil, for deep frying
+
+<u><b>Instructions:</b></u>
+
+1. In a large mixing bowl, combine the all-purpose flour and salt. Slowly add water while kneading the dough until it forms a smooth and firm ball. Cover 
+the dough with a damp cloth and let it rest for at least 30 minutes.
+
+2. Meanwhile, prepare the filling. Heat 2 tablespoons of oil in a pan over medium heat. Add minced garlic, ginger, and green chilies (if using). Sauté for 
+a minute until fragrant.
+
+3. Add the finely chopped mixed vegetables to the pan. Stir-fry for 5-7 minutes or until the vegetables are tender yet crisp.
+
+4. Add soy sauce, chili sauce, vinegar, sesame oil (if using), salt, and pepper to the vegetable mixture. Mix well to combine all the ingredients. Cook for 
+another 2-3 minutes. Remove the filling from heat and let it cool completely.
+
+5. Once the dough has rested, divide it into small lemon-sized balls. Roll out each ball into a thin circle, about 3-4 inches in diameter.
+
+6. Place a spoonful of the cooled vegetable filling in the center of each dough circle.
+
+7. To shape the momos, fold the edges of the dough circle towards the center, pleating and pinching them together to seal the filling inside. You can choose 
+any shape you prefer, such as crescent-shaped or round-shaped momos.
+
+8. Heat oil in a deep frying pan or a deep fryer over medium-high heat. Once the oil is hot, carefully add the momos to the oil in batches, without overcrowding the pan.
+
+9. Fry the momos until they turn golden brown and crispy, about 4-5 minutes. Remove them from the oil using a slotted spoon and drain on paper towels to remove excess oil.
+
+10. Serve the crispy vegetable momos hot with your favorite dipping sauce, such as chili sauce, soy sauce, or tomato chutney.
+
+Enjoy your delicious Vegetable Crispy Momos as a snack or appetizer!
+
+
+    </pre>
+    <a href="#menu"><button>Go Top</button></a>
+
+    <h2 id="Veg Burger"><u>Veg Burger</u></h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYnYwVfcdSss1Iay-CgeI_aDUptyuC3BhwA&usqp=CAU" alt="">
+<pre>
+ <u><b>Ingredients:</b></u>
+
+ <u><b>For the patties:</b></u>
+ - 2 cups cooked and drained chickpeas (or canned chickpeas)
+ - 1 cup cooked quinoa or brown rice
+ - 1 small onion, finely chopped
+ - 2 cloves garlic, minced
+ - 1 carrot, grated
+ - 1/2 cup bread crumbs
+ - 2 tablespoons chopped fresh parsley or cilantro
+ - 1 teaspoon ground cumin
+ - 1 teaspoon paprika
+ - Salt and pepper to taste
+- 2 tablespoons olive oil for cooking
+
+<u><b>For assembling the burger:</b></u>
+- Burger buns
+- Lettuce leaves
+- Sliced tomatoes
+- Sliced onions
+- Sliced cheese (optional)
+- Condiments of your choice (ketchup, mustard, mayonnaise, etc.)
+
+<u><b>Instructions:</b></u>
+
+1. In a large mixing bowl, mash the cooked chickpeas using a fork or potato masher until they are partially mashed but still have some texture.
+
+2. Add cooked quinoa or brown rice, finely chopped onion, minced garlic, grated carrot, bread crumbs, chopped parsley or cilantro, ground cumin, paprika, 
+salt, and pepper to the mashed chickpeas. Mix everything until well combined.
+
+3. Divide the mixture into equal-sized portions and shape them into patties. If the mixture is too wet, you can add more bread crumbs to bind it together.
+
+4. Heat olive oil in a skillet over medium heat. Once the oil is hot, add the patties to the skillet (you may need to do this in batches depending on the 
+size of your skillet). Cook the patties for 4-5 minutes on each side, or until they are golden brown and crispy.
+
+5. While the patties are cooking, prepare the burger buns by slicing them in half and toasting them lightly if desired.
+
+6. To assemble the burgers, place a lettuce leaf on the bottom half of each burger bun. Top with a cooked veggie patty, sliced tomatoes, onions, and cheese (if using).
+
+7. Spread your favorite condiments on the top half of the burger bun, such as ketchup, mustard, or mayonnaise.
+
+8. Place the top half of the burger bun over the fillings to complete the burger.
+
+9. Serve the veggie burgers immediately, with additional condiments or toppings on the side if desired.
+
+Enjoy your homemade veggie burgers with all the fixings!
+
+</pre>
+<a href="#menu"><button>Go Top</button></a>
+
+
+</body>
+</html>
