@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image-Slideshow</title>
+    <style>
+        nav{
+            border-style: solid;
+            border-color: black;
+            background-color: aquamarine;
+        }
+
+        h2{
+            text-align: center;
+            border-bottom-style: solid;
+        }
+
+        #img1{
+            height: 180px;
+            width: 180px;
+        }
+        #img1:hover{
+                background-color: aquamarine;
+                width: 190px;
+                height: 190px;
+
+            }
+            img:hover{
+                background-color: aquamarine;
+                width: 220px;
+                height: 210px;
+            }
+    
+    </style>
+</head>
+<body>
+    <nav>
+        <h2>Scrolling Images</h2>
+        <marquee behavior="" direction=""><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" id="img1" alt="">
+            <img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" id="img1" alt="">
+            <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" id="img1" alt="">
+            <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" height="180px" width="210px">
+            <img src="https://miro.medium.com/v2/resize:fit:374/1*Yhe1R94CIotr2se7Wf6TQQ.png"  id="img1" alt="">
+        
+        </marquee>
+    </nav>
+    
+</body>
+</html>
