@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Platfrm</title>
+    <style>
+        h2{
+            text-align: center;
+        }
+        li{
+            list-style-type: none;
+        }
+        details{
+            margin-left: 49px;
+        }
+       
+        b{
+            border-style: ridge;
+            background-color: antiquewhite;
+
+        }
+        button{
+            pointer-events: none;
+        }
+        
+
+    </style>
+</head><header><h2>Test Platform</h2></header>
+<body>
+    <nav>
+    <div>
+        <ul><b>1.What does HTML stand for?</b>
+        <li><input type="radio" name="radio1" id="radio">a) Hyperlinks and Text Markup Language</li>
+        <li><input type="radio" name="radio1" id="radio">b) Hyper Text Markup Language</li>
+        <li><input type="radio" name="radio1" id="radio">c) Hyper Transfer Markup Language</li>
+        <li><input type="radio" name="radio1" id="radio">d) Hyper Tool Markup Language</li></ul>
+        <details><summary>Answer</summary><p>b) Hyper Text Markup Language</p></details>
+    </div>
+
+    <div>
+        <ul><b>2.Which HTML tag is used to define an internal style sheet?</b>
+        <li><input type="radio" name="radio2" id="radio">a) < style></li>
+        <li><input type="radio" name="radio2" id="radio">b) < css></li>
+        <li><input type="radio" name="radio2" id="radio">c) < script></li>
+        <li><input type="radio" name="radio2" id="radio">d) < link></li></ul>
+        <details><summary>Answer</summary><p>a) < style></p></details>
+    </div>
+
+    <div>
+        <ul><b>3.What is the correct HTML tag for inserting a line break?</b>
+        <li><input type="radio" name="radio3" id="radio">a) < br></li>
+        <li><input type="radio" name="radio3" id="radio">b) < break></li>
+        <li><input type="radio" name="radio3" id="radio">c) < lb></li>
+        <li><input type="radio" name="radio3" id="radio">d) < newline></li></ul>
+        <details><summary>Answer</summary><p>a) < br></p></details>
+    </div>
+
+    <div>
+        <ul><b>4. Which CSS property is used to set the text color of an element?</b>
+        <li><input type="radio" name="radio4" id="radio">a) text-color</li>
+        <li><input type="radio" name="radio4" id="radio">b) color</li>
+        <li><input type="radio" name="radio4" id="radio">c) font-color</li>
+        <li><input type="radio" name="radio4" id="radio">d) text-style</li></ul>
+        <details><summary>Answer</summary><p>b) color</p></details>
+    </div>
+
+    <div>
+        <ul><b>5. In CSS, which property is used to control the spacing between lines of text?</b>
+        <li><input type="radio" name="radio5" id="radio">a) line-height</li>
+        <li><input type="radio" name="radio5" id="radio">b) spacing</li>
+        <li><input type="radio" name="radio5" id="radio">c) line-spacing</li>
+        <li><input type="radio" name="radio5" id="radio">d) text-spacing</li></ul>
+        <details><summary>Answer</summary><p>a) line-height</p></details>
+    </div></nav>
+    <footer><center>
+        <a href="./mcq1.html" ><button>1</button></a>
+        <a href="./mcq-2page.html" ><button>2</button></a>
+    </center>
+
+
+    </footer>
+    
+
+</body>
+</html>
